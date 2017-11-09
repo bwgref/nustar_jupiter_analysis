@@ -1,0 +1,1012 @@
+statistic cstat
+data 1:1 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd1A_sr.pha
+response  2:1 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd1A_sr.rmf
+response  3:1 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd1A_sr.rmf
+response  4:1 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd1A_sr.rmf
+response  5:1 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/diag.rmf
+response  6:1 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd1A_sr.rmf
+arf 2:1 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+arf 4:1 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/fcxbA.arf
+arf 6:1 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+
+data 2:2 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd2A_sr.pha
+response  2:2 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd2A_sr.rmf
+response  3:2 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd2A_sr.rmf
+response  4:2 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd2A_sr.rmf
+response  5:2 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/diag.rmf
+response  6:2 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd2A_sr.rmf
+arf 2:2 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+arf 4:2 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/fcxbA.arf
+arf 6:2 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+
+data 3:3 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd3A_sr.pha
+response  2:3 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd3A_sr.rmf
+response  3:3 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd3A_sr.rmf
+response  4:3 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd3A_sr.rmf
+response  5:3 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/diag.rmf
+response  6:3 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd3A_sr.rmf
+arf 2:3 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+arf 4:3 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/fcxbA.arf
+arf 6:3 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+
+data 4:4 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd0A_sr.pha
+response  2:4 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd0A_sr.rmf
+response  3:4 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd0A_sr.rmf
+response  4:4 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd0A_sr.rmf
+response  5:4 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/diag.rmf
+response  6:4 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd0A_sr.rmf
+arf 2:4 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+arf 4:4 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/fcxbA.arf
+arf 6:4 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+
+data 5:5 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd1B_sr.pha
+response  2:5 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd1B_sr.rmf
+response  3:5 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd1B_sr.rmf
+response  4:5 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd1B_sr.rmf
+response  5:5 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/diag.rmf
+response  6:5 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd1B_sr.rmf
+arf 2:5 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+arf 4:5 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/fcxbB.arf
+arf 6:5 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+
+data 6:6 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd2B_sr.pha
+response  2:6 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd2B_sr.rmf
+response  3:6 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd2B_sr.rmf
+response  4:6 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd2B_sr.rmf
+response  5:6 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/diag.rmf
+response  6:6 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd2B_sr.rmf
+arf 2:6 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+arf 4:6 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/fcxbB.arf
+arf 6:6 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+
+data 7:7 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd3B_sr.pha
+response  2:7 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd3B_sr.rmf
+response  3:7 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd3B_sr.rmf
+response  4:7 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd3B_sr.rmf
+response  5:7 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/diag.rmf
+response  6:7 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd3B_sr.rmf
+arf 2:7 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+arf 4:7 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/fcxbB.arf
+arf 6:7 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+
+data 8:8 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd0B_sr.pha
+response  2:8 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd0B_sr.rmf
+response  3:8 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd0B_sr.rmf
+response  4:8 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd0B_sr.rmf
+response  5:8 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/diag.rmf
+response  6:8 /users/bwgref/science/nustar/jupiter/data/20013036_Jupiter_2015_030_032/20013036002/event_cl/bgdspec/bgd0B_sr.rmf
+arf 2:8 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+arf 4:8 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/fcxbB.arf
+arf 6:8 /users/bwgref/science/nustar/nustar_public/trunk/background/nuskybgd/auxil/be.arf
+ignore 1:1-35,3710-4096 2:1-35,3710-4096 3:1-35,3710-4096 4:1-35,3710-4096 5:1-35,3710-4096 6:1-35,3710-4096 7:1-35,3710-4096 8:1-35,3710-4096
+
+method leven 1000 0.01
+abund angr
+xsect bcmc
+cosmo 70 0 0.73
+xset delta 0.01
+systematic 0
+model  2:apbgd nuabs(powerlaw*highecut)
+      0.0993395         -1          0          0         10         10
+       0.306691         -1          0          0         10         10
+              0         -1          0          0         10         10
+            0.9         -1          0          0          1          1
+           1.29         -1         -3         -2          9         10
+     0.00138253     0.0001          0          0      1e+20      1e+24
+         0.0001         -1     0.0001       0.01      1e+06      1e+06
+          41.13         -1     0.0001       0.01      1e+06      1e+06
+      0.0715625         -1          0          0         10         10
+       0.346726         -1          0          0         10         10
+              0         -1          0          0         10         10
+            0.9         -1          0          0          1          1
+           1.29         -1         -3         -2          9         10
+= apbgd:6*2.39092
+         0.0001         -1     0.0001       0.01      1e+06      1e+06
+          41.13         -1     0.0001       0.01      1e+06      1e+06
+       0.108089         -1          0          0         10         10
+       0.255427         -1          0          0         10         10
+              0         -1          0          0         10         10
+            0.9         -1          0          0          1          1
+           1.29         -1         -3         -2          9         10
+= apbgd:6*2.66770
+         0.0001         -1     0.0001       0.01      1e+06      1e+06
+          41.13         -1     0.0001       0.01      1e+06      1e+06
+         0.1143         -1          0          0         10         10
+         0.2275         -1          0          0         10         10
+              0         -1          0          0         10         10
+            0.9         -1          0          0          1          1
+           1.29         -1         -3         -2          9         10
+= apbgd:6*1.23377
+         0.0001         -1     0.0001       0.01      1e+06      1e+06
+          41.13         -1     0.0001       0.01      1e+06      1e+06
+       0.086936         -1          0          0         10         10
+       0.288399         -1          0          0         10         10
+              0         -1          0          0         10         10
+            0.9         -1          0          0          1          1
+           1.29         -1         -3         -2          9         10
+     0.00328772     0.0001          0          0      1e+20      1e+24
+         0.0001         -1     0.0001       0.01      1e+06      1e+06
+          41.13         -1     0.0001       0.01      1e+06      1e+06
+       0.109057         -1          0          0         10         10
+       0.243144         -1          0          0         10         10
+              0         -1          0          0         10         10
+            0.9         -1          0          0          1          1
+           1.29         -1         -3         -2          9         10
+= apbgd:38*0.411248
+         0.0001         -1     0.0001       0.01      1e+06      1e+06
+          41.13         -1     0.0001       0.01      1e+06      1e+06
+      0.0869058         -1          0          0         10         10
+       0.324786         -1          0          0         10         10
+              0         -1          0          0         10         10
+            0.9         -1          0          0          1          1
+           1.29         -1         -3         -2          9         10
+= apbgd:38*1.25835
+         0.0001         -1     0.0001       0.01      1e+06      1e+06
+          41.13         -1     0.0001       0.01      1e+06      1e+06
+         0.1209         -1          0          0         10         10
+         0.2451         -1          0          0         10         10
+              0         -1          0          0         10         10
+            0.9         -1          0          0          1          1
+           1.29         -1         -3         -2          9         10
+= apbgd:38*1.50738
+         0.0001         -1     0.0001       0.01      1e+06      1e+06
+          41.13         -1     0.0001       0.01      1e+06      1e+06
+model  3:intbgd nuabs(lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + lorentz + apec)
+= apbgd:1
+= apbgd:2
+= apbgd:3
+= apbgd:4
+        3.53895         -1          0          0      1e+06      1e+06
+       0.425422         -1          0          0         10         20
+    0.000600566 0.000150707          0          0      1e+20      1e+24
+        4.51407         -1          0          0      1e+06      1e+06
+       0.544324         -1          0          0         10         20
+     0.00016607 6.23354e-05          0          0      1e+20      1e+24
+        10.2026         -1          0          0      1e+06      1e+06
+       0.641196         -1          0          0         10         20
+     7.6489e-09 8.51331e-09          0          0      1e+20      1e+24
+        19.6464         -1          0          0      1e+06      1e+06
+       0.229493         -1          0          0         10         20
+    2.37505e-05 2.66338e-06          0          0      1e+20      1e+24
+        21.8941         -1          0          0      1e+06      1e+06
+       0.572821         -1          0          0         10         20
+    0.000144298 2.62037e-05          0          0      1e+20      1e+24
+        22.9715         -1          0          0      1e+06      1e+06
+       0.145796         -1          0          0         10         20
+     8.8605e-05 3.4587e-05          0          0      1e+20      1e+24
+        24.7476         -1          0          0      1e+06      1e+06
+         1.9592         -1          0          0         10         20
+    0.000770677 0.000255857          0          0      1e+20      1e+24
+        25.2988         -1          0          0      1e+06      1e+06
+       0.154349         -1          0          0         10         20
+    0.000367423 8.66537e-05          0          0      1e+20      1e+24
+        27.7487         -1          0          0      1e+06      1e+06
+        1.71316         -1          0          0         10         20
+      0.0015934 0.00020351          0          0      1e+20      1e+24
+        28.0779         -1          0          0      1e+06      1e+06
+        2.06086         -1          0          0         10         20
+    9.72501e-16 3.17851e-16          0          0      1e+20      1e+24
+         28.545         -1          0          0      1e+06      1e+06
+       0.271197         -1          0          0         10         20
+    0.000858168 0.000366885          0          0      1e+20      1e+24
+        30.1743         -1          0          0      1e+06      1e+06
+       0.708984         -1          0          0         10         20
+    0.000500768 0.000121097          0          0      1e+20      1e+24
+        30.8558         -1          0          0      1e+06      1e+06
+       0.454891         -1          0          0         10         20
+     0.00136085 0.000443592          0          0      1e+20      1e+24
+        32.1881         -1          0          0      1e+06      1e+06
+       0.855537         -1          0          0         10         20
+    0.000294826 0.000128418          0          0      1e+20      1e+24
+        35.0291         -1          0          0      1e+06      1e+06
+       0.824817         -1          0          0         10         20
+      0.0002656 8.59962e-05          0          0      1e+20      1e+24
+        39.2531         -1          0          0      1e+06      1e+06
+        9.13019         -1          0          0         10         20
+     0.00179854 0.00035097          0          0      1e+20      1e+24
+        39.3993         -1          0          0      1e+06      1e+06
+       0.515074         -1          0          0         10         20
+     0.00017022 6.83346e-05          0          0      1e+20      1e+24
+        47.5556         -1          0          0      1e+06      1e+06
+        6.82107         -1          0          0         10         20
+     0.00145719 0.00029944          0          0      1e+20      1e+24
+        52.5026         -1          0          0      1e+06      1e+06
+        1.60309         -1          0          0         10         20
+     0.00032825 0.000137119          0          0      1e+20      1e+24
+        57.9918         -1          0          0      1e+06      1e+06
+        4.72342         -1          0          0         10         20
+     0.00033496 0.00012796          0          0      1e+20      1e+24
+        65.0087         -1          0          0      1e+06      1e+06
+         5.2372         -1          0          0         10         20
+    0.000821863 0.000261017          0          0      1e+20      1e+24
+        67.0558         -1          0          0      1e+06      1e+06
+       0.530538         -1          0          0         10         20
+     0.00011864 8.06628e-05          0          0      1e+20      1e+24
+        75.1767         -1          0          0      1e+06      1e+06
+        5.59022         -1          0          0         10         20
+     0.00123938 0.000543293          0          0      1e+20      1e+24
+        85.8151         -1          0          0      1e+06      1e+06
+        7.58351         -1          0          0         10         20
+     0.00261359 0.000484183          0          0      1e+20      1e+24
+        87.8979         -1          0          0      1e+06      1e+06
+       0.575213         -1          0          0         10         20
+     0.00120063 0.000264099          0          0      1e+20      1e+24
+        92.6731         -1          0          0      1e+06      1e+06
+       0.643319         -1          0          0         10         20
+    0.000394497 0.000199542          0          0      1e+20      1e+24
+        105.355         -1          0          0      1e+06      1e+06
+       0.463394         -1          0          0         10         20
+      0.0004578 0.000104866          0          0      1e+20      1e+24
+        122.739         -1          0          0      1e+06      1e+06
+            2.3         -1          0          0         10         20
+    3.15762e-09 0.000151459          0          0      1e+20      1e+24
+        144.556         -1          0          0      1e+06      1e+06
+       0.735737         -1          0          0         10         20
+     0.00128787 0.000452758          0          0      1e+20      1e+24
+        1.14579         -1      0.008      0.008         64         64
+        1.32692         -1          0          0          5          5
+              0         -1     -0.999     -0.999         10         10
+      0.0945213  0.0179449          0          0      1e+20      1e+24
+= apbgd:9
+= apbgd:10
+= apbgd:11
+= apbgd:12
+        3.53895         -1          0          0      1e+06      1e+06
+       0.425422         -1          0          0         10         20
+= intbgd:7*1.42236
+        4.51407         -1          0          0      1e+06      1e+06
+       0.544324         -1          0          0         10         20
+= intbgd:10*2.77905
+        10.2026         -1          0          0      1e+06      1e+06
+       0.641196         -1          0          0         10         20
+= intbgd:13*4676.24
+        19.6464         -1          0          0      1e+06      1e+06
+       0.229493         -1          0          0         10         20
+= intbgd:16*3.80933
+        21.8941         -1          0          0      1e+06      1e+06
+       0.572821         -1          0          0         10         20
+= intbgd:19*1.77618
+        22.9715         -1          0          0      1e+06      1e+06
+       0.145796         -1          0          0         10         20
+= intbgd:22*1.15054
+        24.7476         -1          0          0      1e+06      1e+06
+         1.9592         -1          0          0         10         20
+= intbgd:25*1.65306
+        25.2988         -1          0          0      1e+06      1e+06
+       0.154349         -1          0          0         10         20
+= intbgd:28*0.901318
+        27.7487         -1          0          0      1e+06      1e+06
+        1.71316         -1          0          0         10         20
+= intbgd:31*0.00108433
+        28.0779         -1          0          0      1e+06      1e+06
+        2.06086         -1          0          0         10         20
+= intbgd:34*1.49632e + 12
+         28.545         -1          0          0      1e+06      1e+06
+       0.271197         -1          0          0         10         20
+= intbgd:37*0.630135
+        30.1743         -1          0          0      1e+06      1e+06
+       0.708984         -1          0          0         10         20
+= intbgd:40*1.54094
+        30.8558         -1          0          0      1e+06      1e+06
+       0.454891         -1          0          0         10         20
+= intbgd:43*0.861529
+        32.1881         -1          0          0      1e+06      1e+06
+       0.855537         -1          0          0         10         20
+= intbgd:46*1.28885
+        35.0291         -1          0          0      1e+06      1e+06
+       0.824817         -1          0          0         10         20
+= intbgd:49*0.996510
+        39.2531         -1          0          0      1e+06      1e+06
+        9.13019         -1          0          0         10         20
+= intbgd:52*1.98403
+        39.3993         -1          0          0      1e+06      1e+06
+       0.515074         -1          0          0         10         20
+= intbgd:55*1.09123
+        47.5556         -1          0          0      1e+06      1e+06
+        6.82107         -1          0          0         10         20
+= intbgd:58*1.47884
+        52.5026         -1          0          0      1e+06      1e+06
+        1.60309         -1          0          0         10         20
+= intbgd:61*1.34116
+        57.9918         -1          0          0      1e+06      1e+06
+        4.72342         -1          0          0         10         20
+= intbgd:64*1.58691
+        65.0087         -1          0          0      1e+06      1e+06
+         5.2372         -1          0          0         10         20
+= intbgd:67*1.66261
+        67.0558         -1          0          0      1e+06      1e+06
+       0.530538         -1          0          0         10         20
+= intbgd:70*0.693084
+        75.1767         -1          0          0      1e+06      1e+06
+        5.59022         -1          0          0         10         20
+= intbgd:73*0.640333
+        85.8151         -1          0          0      1e+06      1e+06
+        7.58351         -1          0          0         10         20
+= intbgd:76*1.15821
+        87.8979         -1          0          0      1e+06      1e+06
+       0.575213         -1          0          0         10         20
+= intbgd:79*0.714777
+        92.6731         -1          0          0      1e+06      1e+06
+       0.643319         -1          0          0         10         20
+= intbgd:82*0.745793
+        105.355         -1          0          0      1e+06      1e+06
+       0.463394         -1          0          0         10         20
+= intbgd:85*0.515381
+        122.739         -1          0          0      1e+06      1e+06
+            2.3         -1          0          0         10         20
+= intbgd:88*0.168508
+        144.556         -1          0          0      1e+06      1e+06
+       0.735737         -1          0          0         10         20
+= intbgd:91*0.657325
+        1.14579         -1      0.008      0.008         64         64
+        1.32692         -1          0          0          5          5
+              0         -1     -0.999     -0.999         10         10
+= intbgd:95*1.14975
+= apbgd:17
+= apbgd:18
+= apbgd:19
+= apbgd:20
+        3.53895         -1          0          0      1e+06      1e+06
+       0.425422         -1          0          0         10         20
+= intbgd:7*0.990467
+        4.51407         -1          0          0      1e+06      1e+06
+       0.544324         -1          0          0         10         20
+= intbgd:10*2.12116
+        10.2026         -1          0          0      1e+06      1e+06
+       0.641196         -1          0          0         10         20
+= intbgd:13*5893.13
+        19.6464         -1          0          0      1e+06      1e+06
+       0.229493         -1          0          0         10         20
+= intbgd:16*7.29731
+        21.8941         -1          0          0      1e+06      1e+06
+       0.572821         -1          0          0         10         20
+= intbgd:19*3.03622
+        22.9715         -1          0          0      1e+06      1e+06
+       0.145796         -1          0          0         10         20
+= intbgd:22*1.48026
+        24.7476         -1          0          0      1e+06      1e+06
+         1.9592         -1          0          0         10         20
+= intbgd:25*2.13674
+        25.2988         -1          0          0      1e+06      1e+06
+       0.154349         -1          0          0         10         20
+= intbgd:28*0.767431
+        27.7487         -1          0          0      1e+06      1e+06
+        1.71316         -1          0          0         10         20
+= intbgd:31*1.16211e-05
+        28.0779         -1          0          0      1e+06      1e+06
+        2.06086         -1          0          0         10         20
+= intbgd:34*1.42596e + 12
+         28.545         -1          0          0      1e+06      1e+06
+       0.271197         -1          0          0         10         20
+= intbgd:37*0.672637
+        30.1743         -1          0          0      1e+06      1e+06
+       0.708984         -1          0          0         10         20
+= intbgd:40*1.71262
+        30.8558         -1          0          0      1e+06      1e+06
+       0.454891         -1          0          0         10         20
+= intbgd:43*0.802467
+        32.1881         -1          0          0      1e+06      1e+06
+       0.855537         -1          0          0         10         20
+= intbgd:46*1.49911
+        35.0291         -1          0          0      1e+06      1e+06
+       0.824817         -1          0          0         10         20
+= intbgd:49*0.709026
+        39.2531         -1          0          0      1e+06      1e+06
+        9.13019         -1          0          0         10         20
+= intbgd:52*2.06069
+        39.3993         -1          0          0      1e+06      1e+06
+       0.515074         -1          0          0         10         20
+= intbgd:55*1.47738
+        47.5556         -1          0          0      1e+06      1e+06
+        6.82107         -1          0          0         10         20
+= intbgd:58*1.34052
+        52.5026         -1          0          0      1e+06      1e+06
+        1.60309         -1          0          0         10         20
+= intbgd:61*1.56875
+        57.9918         -1          0          0      1e+06      1e+06
+        4.72342         -1          0          0         10         20
+= intbgd:64*2.10872
+        65.0087         -1          0          0      1e+06      1e+06
+         5.2372         -1          0          0         10         20
+= intbgd:67*2.06750
+        67.0558         -1          0          0      1e+06      1e+06
+       0.530538         -1          0          0         10         20
+= intbgd:70*1.05069
+        75.1767         -1          0          0      1e+06      1e+06
+        5.59022         -1          0          0         10         20
+= intbgd:73*1.00635
+        85.8151         -1          0          0      1e+06      1e+06
+        7.58351         -1          0          0         10         20
+= intbgd:76*1.13815
+        87.8979         -1          0          0      1e+06      1e+06
+       0.575213         -1          0          0         10         20
+= intbgd:79*0.792020
+        92.6731         -1          0          0      1e+06      1e+06
+       0.643319         -1          0          0         10         20
+= intbgd:82*0.801574
+        105.355         -1          0          0      1e+06      1e+06
+       0.463394         -1          0          0         10         20
+= intbgd:85*0.654295
+        122.739         -1          0          0      1e+06      1e+06
+            2.3         -1          0          0         10         20
+= intbgd:88*0.415208
+        144.556         -1          0          0      1e+06      1e+06
+       0.735737         -1          0          0         10         20
+= intbgd:91*0.716510
+        1.14579         -1      0.008      0.008         64         64
+        1.32692         -1          0          0          5          5
+              0         -1     -0.999     -0.999         10         10
+= intbgd:95*1.95434
+= apbgd:25
+= apbgd:26
+= apbgd:27
+= apbgd:28
+        3.53895         -1          0          0      1e+06      1e+06
+       0.425422         -1          0          0         10         20
+= intbgd:7*0.932894
+        4.51407         -1          0          0      1e+06      1e+06
+       0.544324         -1          0          0         10         20
+= intbgd:10*1.15178
+        10.2026         -1          0          0      1e+06      1e+06
+       0.641196         -1          0          0         10         20
+= intbgd:13*371.889
+        19.6464         -1          0          0      1e+06      1e+06
+       0.229493         -1          0          0         10         20
+= intbgd:16*4.98181
+        21.8941         -1          0          0      1e+06      1e+06
+       0.572821         -1          0          0         10         20
+= intbgd:19*1.26882
+        22.9715         -1          0          0      1e+06      1e+06
+       0.145796         -1          0          0         10         20
+= intbgd:22*1.23193
+        24.7476         -1          0          0      1e+06      1e+06
+         1.9592         -1          0          0         10         20
+= intbgd:25*1.20772
+        25.2988         -1          0          0      1e+06      1e+06
+       0.154349         -1          0          0         10         20
+= intbgd:28*1.21020
+        27.7487         -1          0          0      1e+06      1e+06
+        1.71316         -1          0          0         10         20
+= intbgd:31*1.16445
+        28.0779         -1          0          0      1e+06      1e+06
+        2.06086         -1          0          0         10         20
+= intbgd:34*0.0334884
+         28.545         -1          0          0      1e+06      1e+06
+       0.271197         -1          0          0         10         20
+= intbgd:37*0.902237
+        30.1743         -1          0          0      1e+06      1e+06
+       0.708984         -1          0          0         10         20
+= intbgd:40*1.19070
+        30.8558         -1          0          0      1e+06      1e+06
+       0.454891         -1          0          0         10         20
+= intbgd:43*0.983594
+        32.1881         -1          0          0      1e+06      1e+06
+       0.855537         -1          0          0         10         20
+= intbgd:46*1.15285
+        35.0291         -1          0          0      1e+06      1e+06
+       0.824817         -1          0          0         10         20
+= intbgd:49*0.881831
+        39.2531         -1          0          0      1e+06      1e+06
+        9.13019         -1          0          0         10         20
+= intbgd:52*1.55090
+        39.3993         -1          0          0      1e+06      1e+06
+       0.515074         -1          0          0         10         20
+= intbgd:55*1.05536
+        47.5556         -1          0          0      1e+06      1e+06
+        6.82107         -1          0          0         10         20
+= intbgd:58*1.32932
+        52.5026         -1          0          0      1e+06      1e+06
+        1.60309         -1          0          0         10         20
+= intbgd:61*1.21817
+        57.9918         -1          0          0      1e+06      1e+06
+        4.72342         -1          0          0         10         20
+= intbgd:64*1.43077
+        65.0087         -1          0          0      1e+06      1e+06
+         5.2372         -1          0          0         10         20
+= intbgd:67*1.38666
+        67.0558         -1          0          0      1e+06      1e+06
+       0.530538         -1          0          0         10         20
+= intbgd:70*0.817562
+        75.1767         -1          0          0      1e+06      1e+06
+        5.59022         -1          0          0         10         20
+= intbgd:73*0.665965
+        85.8151         -1          0          0      1e+06      1e+06
+        7.58351         -1          0          0         10         20
+= intbgd:76*0.907776
+        87.8979         -1          0          0      1e+06      1e+06
+       0.575213         -1          0          0         10         20
+= intbgd:79*1.04806
+        92.6731         -1          0          0      1e+06      1e+06
+       0.643319         -1          0          0         10         20
+= intbgd:82*0.970343
+        105.355         -1          0          0      1e+06      1e+06
+       0.463394         -1          0          0         10         20
+= intbgd:85*0.797408
+        122.739         -1          0          0      1e+06      1e+06
+            2.3         -1          0          0         10         20
+= intbgd:88*0.589102
+        144.556         -1          0          0      1e+06      1e+06
+       0.735737         -1          0          0         10         20
+= intbgd:91*0.998877
+        1.14579         -1      0.008      0.008         64         64
+        1.32692         -1          0          0          5          5
+              0         -1     -0.999     -0.999         10         10
+= intbgd:95*1.15253
+= apbgd:33
+= apbgd:34
+= apbgd:35
+= apbgd:36
+        3.53895         -1          0          0      1e+06      1e+06
+       0.425422         -1          0          0         10         20
+      0.0012648 0.000162772          0          0      1e+20      1e+24
+        4.51407         -1          0          0      1e+06      1e+06
+       0.544324         -1          0          0         10         20
+    0.000347809 0.000117652          0          0      1e+20      1e+24
+        10.2026         -1          0          0      1e+06      1e+06
+       0.641196         -1          0          0         10         20
+    0.000133007 1.75681e-05          0          0      1e+20      1e+24
+        19.6464         -1          0          0      1e+06      1e+06
+       0.229493         -1          0          0         10         20
+    6.41954e-05 5.59019e-06          0          0      1e+20      1e+24
+        21.8941         -1          0          0      1e+06      1e+06
+       0.572821         -1          0          0         10         20
+    0.000315326 3.81546e-05          0          0      1e+20      1e+24
+        22.9715         -1          0          0      1e+06      1e+06
+       0.145796         -1          0          0         10         20
+     9.1824e-05 3.84359e-05          0          0      1e+20      1e+24
+        24.7476         -1          0          0      1e+06      1e+06
+         1.9592         -1          0          0         10         20
+      0.0010756 0.000309751          0          0      1e+20      1e+24
+        25.2988         -1          0          0      1e+06      1e+06
+       0.154349         -1          0          0         10         20
+    0.000366794 0.00011325          0          0      1e+20      1e+24
+        27.7487         -1          0          0      1e+06      1e+06
+        1.71316         -1          0          0         10         20
+      0.0013975 0.000224338          0          0      1e+20      1e+24
+        28.0779         -1          0          0      1e+06      1e+06
+        2.06086         -1          0          0         10         20
+    4.52008e-20 6.99627e-21          0          0      1e+20      1e+24
+         28.545         -1          0          0      1e+06      1e+06
+       0.271197         -1          0          0         10         20
+    0.000708863 0.000355401          0          0      1e+20      1e+24
+        30.1743         -1          0          0      1e+06      1e+06
+       0.708984         -1          0          0         10         20
+    0.000807258 0.000109721          0          0      1e+20      1e+24
+        30.8558         -1          0          0      1e+06      1e+06
+       0.454891         -1          0          0         10         20
+      0.0012051 0.000461522          0          0      1e+20      1e+24
+        32.1881         -1          0          0      1e+06      1e+06
+       0.855537         -1          0          0         10         20
+    0.000377475 0.000153498          0          0      1e+20      1e+24
+        35.0291         -1          0          0      1e+06      1e+06
+       0.824817         -1          0          0         10         20
+    0.000180271 7.94923e-05          0          0      1e+20      1e+24
+        39.2531         -1          0          0      1e+06      1e+06
+        9.13019         -1          0          0         10         20
+     0.00329725 0.000532043          0          0      1e+20      1e+24
+        39.3993         -1          0          0      1e+06      1e+06
+       0.515074         -1          0          0         10         20
+    0.000154921 7.62937e-05          0          0      1e+20      1e+24
+        47.5556         -1          0          0      1e+06      1e+06
+        6.82107         -1          0          0         10         20
+       0.001875 0.000375602          0          0      1e+20      1e+24
+        52.5026         -1          0          0      1e+06      1e+06
+        1.60309         -1          0          0         10         20
+    0.000448268 0.00015551          0          0      1e+20      1e+24
+        57.9918         -1          0          0      1e+06      1e+06
+        4.72342         -1          0          0         10         20
+    0.000816967 0.000181369          0          0      1e+20      1e+24
+        65.0087         -1          0          0      1e+06      1e+06
+         5.2372         -1          0          0         10         20
+     0.00118682 0.000295703          0          0      1e+20      1e+24
+        67.0558         -1          0          0      1e+06      1e+06
+       0.530538         -1          0          0         10         20
+    2.91541e-05 7.03217e-05          0          0      1e+20      1e+24
+        75.1767         -1          0          0      1e+06      1e+06
+        5.59022         -1          0          0         10         20
+    0.000919444 0.000300598          0          0      1e+20      1e+24
+        85.8151         -1          0          0      1e+06      1e+06
+        7.58351         -1          0          0         10         20
+     0.00247087 0.000392602          0          0      1e+20      1e+24
+        87.8979         -1          0          0      1e+06      1e+06
+       0.575213         -1          0          0         10         20
+     0.00116298 0.000288684          0          0      1e+20      1e+24
+        92.6731         -1          0          0      1e+06      1e+06
+       0.643319         -1          0          0         10         20
+    0.000415629 0.00020853          0          0      1e+20      1e+24
+        105.355         -1          0          0      1e+06      1e+06
+       0.463394         -1          0          0         10         20
+    0.000354808 9.2716e-05          0          0      1e+20      1e+24
+        122.739         -1          0          0      1e+06      1e+06
+            2.3         -1          0          0         10         20
+    8.59467e-05 7.23961e-05          0          0      1e+20      1e+24
+        144.556         -1          0          0      1e+06      1e+06
+       0.735737         -1          0          0         10         20
+      0.0013557 0.000489573          0          0      1e+20      1e+24
+        1.14579         -1      0.008      0.008         64         64
+        1.32692         -1          0          0          5          5
+              0         -1     -0.999     -0.999         10         10
+      0.0925899  0.0219909          0          0      1e+20      1e+24
+= apbgd:41
+= apbgd:42
+= apbgd:43
+= apbgd:44
+        3.53895         -1          0          0      1e+06      1e+06
+       0.425422         -1          0          0         10         20
+= intbgd:387*0.906504
+        4.51407         -1          0          0      1e+06      1e+06
+       0.544324         -1          0          0         10         20
+= intbgd:390*0.715700
+        10.2026         -1          0          0      1e+06      1e+06
+       0.641196         -1          0          0         10         20
+= intbgd:393*0.759985
+        19.6464         -1          0          0      1e+06      1e+06
+       0.229493         -1          0          0         10         20
+= intbgd:396*2.61063
+        21.8941         -1          0          0      1e+06      1e+06
+       0.572821         -1          0          0         10         20
+= intbgd:399*1.27810
+        22.9715         -1          0          0      1e+06      1e+06
+       0.145796         -1          0          0         10         20
+= intbgd:402*1.36839
+        24.7476         -1          0          0      1e+06      1e+06
+         1.9592         -1          0          0         10         20
+= intbgd:405*1.17086
+        25.2988         -1          0          0      1e+06      1e+06
+       0.154349         -1          0          0         10         20
+= intbgd:408*1.14047
+        27.7487         -1          0          0      1e+06      1e+06
+        1.71316         -1          0          0         10         20
+= intbgd:411*1.05116
+        28.0779         -1          0          0      1e+06      1e+06
+        2.06086         -1          0          0         10         20
+= intbgd:414*1.00206
+         28.545         -1          0          0      1e+06      1e+06
+       0.271197         -1          0          0         10         20
+= intbgd:417*0.975056
+        30.1743         -1          0          0      1e+06      1e+06
+       0.708984         -1          0          0         10         20
+= intbgd:420*1.26204
+        30.8558         -1          0          0      1e+06      1e+06
+       0.454891         -1          0          0         10         20
+= intbgd:423*0.984500
+        32.1881         -1          0          0      1e+06      1e+06
+       0.855537         -1          0          0         10         20
+= intbgd:426*0.975450
+        35.0291         -1          0          0      1e+06      1e+06
+       0.824817         -1          0          0         10         20
+= intbgd:429*0.892610
+        39.2531         -1          0          0      1e+06      1e+06
+        9.13019         -1          0          0         10         20
+= intbgd:432*1.07897
+        39.3993         -1          0          0      1e+06      1e+06
+       0.515074         -1          0          0         10         20
+= intbgd:435*1.12914
+        47.5556         -1          0          0      1e+06      1e+06
+        6.82107         -1          0          0         10         20
+= intbgd:438*0.975470
+        52.5026         -1          0          0      1e+06      1e+06
+        1.60309         -1          0          0         10         20
+= intbgd:441*1.09125
+        57.9918         -1          0          0      1e+06      1e+06
+        4.72342         -1          0          0         10         20
+= intbgd:444*0.916492
+        65.0087         -1          0          0      1e+06      1e+06
+         5.2372         -1          0          0         10         20
+= intbgd:447*1.24148
+        67.0558         -1          0          0      1e+06      1e+06
+       0.530538         -1          0          0         10         20
+= intbgd:450*0.788849
+        75.1767         -1          0          0      1e+06      1e+06
+        5.59022         -1          0          0         10         20
+= intbgd:453*1.26769
+        85.8151         -1          0          0      1e+06      1e+06
+        7.58351         -1          0          0         10         20
+= intbgd:456*1.07817
+        87.8979         -1          0          0      1e+06      1e+06
+       0.575213         -1          0          0         10         20
+= intbgd:459*0.918778
+        92.6731         -1          0          0      1e+06      1e+06
+       0.643319         -1          0          0         10         20
+= intbgd:462*0.963313
+        105.355         -1          0          0      1e+06      1e+06
+       0.463394         -1          0          0         10         20
+= intbgd:465*0.971378
+        122.739         -1          0          0      1e+06      1e+06
+            2.3         -1          0          0         10         20
+= intbgd:468*1.01241
+        144.556         -1          0          0      1e+06      1e+06
+       0.735737         -1          0          0         10         20
+= intbgd:471*0.881199
+        1.14579         -1      0.008      0.008         64         64
+        1.32692         -1          0          0          5          5
+              0         -1     -0.999     -0.999         10         10
+= intbgd:475*0.746186
+= apbgd:49
+= apbgd:50
+= apbgd:51
+= apbgd:52
+        3.53895         -1          0          0      1e+06      1e+06
+       0.425422         -1          0          0         10         20
+= intbgd:387*1.40032
+        4.51407         -1          0          0      1e+06      1e+06
+       0.544324         -1          0          0         10         20
+= intbgd:390*1.44793
+        10.2026         -1          0          0      1e+06      1e+06
+       0.641196         -1          0          0         10         20
+= intbgd:393*1.79257
+        19.6464         -1          0          0      1e+06      1e+06
+       0.229493         -1          0          0         10         20
+= intbgd:396*1.72922
+        21.8941         -1          0          0      1e+06      1e+06
+       0.572821         -1          0          0         10         20
+= intbgd:399*0.894049
+        22.9715         -1          0          0      1e+06      1e+06
+       0.145796         -1          0          0         10         20
+= intbgd:402*1.01489
+        24.7476         -1          0          0      1e+06      1e+06
+         1.9592         -1          0          0         10         20
+= intbgd:405*0.956511
+        25.2988         -1          0          0      1e+06      1e+06
+       0.154349         -1          0          0         10         20
+= intbgd:408*0.920878
+        27.7487         -1          0          0      1e+06      1e+06
+        1.71316         -1          0          0         10         20
+= intbgd:411*0.994628
+        28.0779         -1          0          0      1e+06      1e+06
+        2.06086         -1          0          0         10         20
+= intbgd:414*0.999022
+         28.545         -1          0          0      1e+06      1e+06
+       0.271197         -1          0          0         10         20
+= intbgd:417*0.950347
+        30.1743         -1          0          0      1e+06      1e+06
+       0.708984         -1          0          0         10         20
+= intbgd:420*1.16767
+        30.8558         -1          0          0      1e+06      1e+06
+       0.454891         -1          0          0         10         20
+= intbgd:423*0.918182
+        32.1881         -1          0          0      1e+06      1e+06
+       0.855537         -1          0          0         10         20
+= intbgd:426*0.951548
+        35.0291         -1          0          0      1e+06      1e+06
+       0.824817         -1          0          0         10         20
+= intbgd:429*0.995565
+        39.2531         -1          0          0      1e+06      1e+06
+        9.13019         -1          0          0         10         20
+= intbgd:432*1.10678
+        39.3993         -1          0          0      1e+06      1e+06
+       0.515074         -1          0          0         10         20
+= intbgd:435*1.11544
+        47.5556         -1          0          0      1e+06      1e+06
+        6.82107         -1          0          0         10         20
+= intbgd:438*1.01343
+        52.5026         -1          0          0      1e+06      1e+06
+        1.60309         -1          0          0         10         20
+= intbgd:441*1.04775
+        57.9918         -1          0          0      1e+06      1e+06
+        4.72342         -1          0          0         10         20
+= intbgd:444*1.03923
+        65.0087         -1          0          0      1e+06      1e+06
+         5.2372         -1          0          0         10         20
+= intbgd:447*1.29148
+        67.0558         -1          0          0      1e+06      1e+06
+       0.530538         -1          0          0         10         20
+= intbgd:450*0.915782
+        75.1767         -1          0          0      1e+06      1e+06
+        5.59022         -1          0          0         10         20
+= intbgd:453*1.43314
+        85.8151         -1          0          0      1e+06      1e+06
+        7.58351         -1          0          0         10         20
+= intbgd:456*0.933220
+        87.8979         -1          0          0      1e+06      1e+06
+       0.575213         -1          0          0         10         20
+= intbgd:459*0.999652
+        92.6731         -1          0          0      1e+06      1e+06
+       0.643319         -1          0          0         10         20
+= intbgd:462*0.985273
+        105.355         -1          0          0      1e+06      1e+06
+       0.463394         -1          0          0         10         20
+= intbgd:465*1.13593
+        122.739         -1          0          0      1e+06      1e+06
+            2.3         -1          0          0         10         20
+= intbgd:468*1.04188
+        144.556         -1          0          0      1e+06      1e+06
+       0.735737         -1          0          0         10         20
+= intbgd:471*0.993138
+        1.14579         -1      0.008      0.008         64         64
+        1.32692         -1          0          0          5          5
+              0         -1     -0.999     -0.999         10         10
+= intbgd:475*1.00529
+= apbgd:57
+= apbgd:58
+= apbgd:59
+= apbgd:60
+        3.53895         -1          0          0      1e+06      1e+06
+       0.425422         -1          0          0         10         20
+= intbgd:387*0.987901
+        4.51407         -1          0          0      1e+06      1e+06
+       0.544324         -1          0          0         10         20
+= intbgd:390*1.34835
+        10.2026         -1          0          0      1e+06      1e+06
+       0.641196         -1          0          0         10         20
+= intbgd:393*1.53092
+        19.6464         -1          0          0      1e+06      1e+06
+       0.229493         -1          0          0         10         20
+= intbgd:396*1.03978
+        21.8941         -1          0          0      1e+06      1e+06
+       0.572821         -1          0          0         10         20
+= intbgd:399*0.670923
+        22.9715         -1          0          0      1e+06      1e+06
+       0.145796         -1          0          0         10         20
+= intbgd:402*0.978753
+        24.7476         -1          0          0      1e+06      1e+06
+         1.9592         -1          0          0         10         20
+= intbgd:405*0.882482
+        25.2988         -1          0          0      1e+06      1e+06
+       0.154349         -1          0          0         10         20
+= intbgd:408*0.988623
+        27.7487         -1          0          0      1e+06      1e+06
+        1.71316         -1          0          0         10         20
+= intbgd:411*0.892832
+        28.0779         -1          0          0      1e+06      1e+06
+        2.06086         -1          0          0         10         20
+= intbgd:414*0.970906
+         28.545         -1          0          0      1e+06      1e+06
+       0.271197         -1          0          0         10         20
+= intbgd:417*1.02810
+        30.1743         -1          0          0      1e+06      1e+06
+       0.708984         -1          0          0         10         20
+= intbgd:420*1.07935
+        30.8558         -1          0          0      1e+06      1e+06
+       0.454891         -1          0          0         10         20
+= intbgd:423*0.929765
+        32.1881         -1          0          0      1e+06      1e+06
+       0.855537         -1          0          0         10         20
+= intbgd:426*1.03668
+        35.0291         -1          0          0      1e+06      1e+06
+       0.824817         -1          0          0         10         20
+= intbgd:429*1.01002
+        39.2531         -1          0          0      1e+06      1e+06
+        9.13019         -1          0          0         10         20
+= intbgd:432*1.04241
+        39.3993         -1          0          0      1e+06      1e+06
+       0.515074         -1          0          0         10         20
+= intbgd:435*0.914967
+        47.5556         -1          0          0      1e+06      1e+06
+        6.82107         -1          0          0         10         20
+= intbgd:438*0.949001
+        52.5026         -1          0          0      1e+06      1e+06
+        1.60309         -1          0          0         10         20
+= intbgd:441*0.923814
+        57.9918         -1          0          0      1e+06      1e+06
+        4.72342         -1          0          0         10         20
+= intbgd:444*0.941209
+        65.0087         -1          0          0      1e+06      1e+06
+         5.2372         -1          0          0         10         20
+= intbgd:447*1.01417
+        67.0558         -1          0          0      1e+06      1e+06
+       0.530538         -1          0          0         10         20
+= intbgd:450*1.01223
+        75.1767         -1          0          0      1e+06      1e+06
+        5.59022         -1          0          0         10         20
+= intbgd:453*1.14908
+        85.8151         -1          0          0      1e+06      1e+06
+        7.58351         -1          0          0         10         20
+= intbgd:456*1.10249
+        87.8979         -1          0          0      1e+06      1e+06
+       0.575213         -1          0          0         10         20
+= intbgd:459*0.900365
+        92.6731         -1          0          0      1e+06      1e+06
+       0.643319         -1          0          0         10         20
+= intbgd:462*0.914144
+        105.355         -1          0          0      1e+06      1e+06
+       0.463394         -1          0          0         10         20
+= intbgd:465*0.939074
+        122.739         -1          0          0      1e+06      1e+06
+            2.3         -1          0          0         10         20
+= intbgd:468*0.757831
+        144.556         -1          0          0      1e+06      1e+06
+       0.735737         -1          0          0         10         20
+= intbgd:471*0.944201
+        1.14579         -1      0.008      0.008         64         64
+        1.32692         -1          0          0          5          5
+              0         -1     -0.999     -0.999         10         10
+= intbgd:475*1.03236
+model  4:fcxb nuabs(powerlaw*highecut)
+= apbgd:1
+= apbgd:2
+= apbgd:3
+= apbgd:4
+= apbgd:5
+    7.66314e-05      1e-06          0          0      1e+20      1e+24
+= apbgd:7
+= apbgd:8
+= apbgd:9
+= apbgd:10
+= apbgd:11
+= apbgd:12
+= apbgd:5
+    2.83205e-05      1e-06          0          0      1e+20      1e+24
+= apbgd:7
+= apbgd:8
+= apbgd:17
+= apbgd:18
+= apbgd:19
+= apbgd:20
+= apbgd:5
+    6.69821e-05      1e-06          0          0      1e+20      1e+24
+= apbgd:7
+= apbgd:8
+= apbgd:25
+= apbgd:26
+= apbgd:27
+= apbgd:28
+= apbgd:5
+    0.000108174      1e-06          0          0      1e+20      1e+24
+= apbgd:7
+= apbgd:8
+= apbgd:33
+= apbgd:34
+= apbgd:35
+= apbgd:36
+= apbgd:5
+= fcxb:6
+= apbgd:7
+= apbgd:8
+= apbgd:41
+= apbgd:42
+= apbgd:43
+= apbgd:44
+= apbgd:5
+= fcxb:14
+= apbgd:7
+= apbgd:8
+= apbgd:49
+= apbgd:50
+= apbgd:51
+= apbgd:52
+= apbgd:5
+= fcxb:22
+= apbgd:7
+= apbgd:8
+= apbgd:57
+= apbgd:58
+= apbgd:59
+= apbgd:60
+= apbgd:5
+= fcxb:30
+= apbgd:7
+= apbgd:8
+model  5:intn bknpower
+          -0.05         -1         -3         -2          9         10
+            124         -1          0       0.01      1e+06      1e+06
+          -0.85         -1         -3         -2          9         10
+    0.000192101 5.97853e-05          0          0      1e+20      1e+24
+          -0.05         -1         -3         -2          9         10
+            124         -1          0       0.01      1e+06      1e+06
+          -0.85         -1         -3         -2          9         10
+= intn:4*0.966199
+          -0.05         -1         -3         -2          9         10
+            124         -1          0       0.01      1e+06      1e+06
+          -0.85         -1         -3         -2          9         10
+= intn:4*1.04745
+          -0.05         -1         -3         -2          9         10
+            124         -1          0       0.01      1e+06      1e+06
+          -0.85         -1         -3         -2          9         10
+= intn:4*0.928749
+          -0.05         -1         -3         -2          9         10
+            124         -1          0       0.01      1e+06      1e+06
+          -0.85         -1         -3         -2          9         10
+    0.000179131 5.34334e-05          0          0      1e+20      1e+24
+          -0.05         -1         -3         -2          9         10
+            124         -1          0       0.01      1e+06      1e+06
+          -0.85         -1         -3         -2          9         10
+= intn:20*1.03478
+          -0.05         -1         -3         -2          9         10
+            124         -1          0       0.01      1e+06      1e+06
+          -0.85         -1         -3         -2          9         10
+= intn:20*1.02475
+          -0.05         -1         -3         -2          9         10
+            124         -1          0       0.01      1e+06      1e+06
+          -0.85         -1         -3         -2          9         10
+= intn:20*1.01360
