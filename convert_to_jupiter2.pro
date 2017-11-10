@@ -54,9 +54,11 @@ mean_ys = mean(dec)
 mean_nustar_time = mean(nustar_time)
 print, mean_xs, mean_ys, mean_nustar_time, format = '(3d20.6)'
 
-; Compute shift in RA/Dec vs time
+; Compute shift in RA/Dec vs time (note, this is done in the time units of the
+; ephemeris run).
 drift_xs = ra - mean_xs
 drift_ys = dec - mean_ys
+
 
 
 ; For later use, convert this to a change in pixel locations:
@@ -69,22 +71,35 @@ FOR i = 0, n_elements(drift_xs) -1 DO BEGIN
 ENDFOR
 close, lun
 free_lun, lun
+ 
+
+;; Below is the old way, doing this in RA/Dec space. Let's use the drift_[x/y]pix values
+;; that we've already converted to pixel coordinates above. This also matches what we do
+;; to the DET1 file in adjust_det1.pro
+
+;Interpolate these drifts onto the event times:
+;x_drift = interpol(drift_xs, nustar_time, evt.time)
+;y_drift = interpol(drift_ys, nustar_time, evt.time)
+;
+;Add this value onto the old values:
+;new_x = (xr - x_drift)
+;new_y = (yd - y_drift)
+
+;; Interpolate the pixel drifts onto the event times:
+drift_xpix_interp = interpol(drift_xpix, nustar_time, evt.time)
+drift_ypix_interp = interpol(drift_ypix, nustar_time, evt.time)
 
 
-; Interpolate these drifts onto the event times:
-x_drift = interpol(drift_xs, nustar_time, evt.time)
-y_drift = interpol(drift_ys, nustar_time, evt.time)
 
-; Add this value onto the old values:
-new_x = (xr - x_drift)
-new_y = (yd - y_drift)
-
+;; Apply this correction to the events and round to the nearest sky pixel
+evt.y = round( (evt.y - drift_y_pix_interp))
+evt.x = round( (evt.x - drift_xpix_interp))
 
 
 
 ; Convert to back to sky pixels:
-evt.y = round( (new_y - dec0) / delY + y0 )
-evt.x = round ((new_x - ra0) * cos(dec0/180.0d0*!dpi) / delX + x0)
+;; evt.y = round( (new_y - dec0) / delY + y0 )
+;; evt.x = round ((new_x - ra0) * cos(dec0/180.0d0*!dpi) / delX + x0)
 
 ;yd = dec0 + (evt.y - y0)*dely
 ;xr = ra0 + (evt.x - x0)*delx/cos(dec0/180.0d0*!dpi) ; imperfect correction for cos(dec) for quick work
